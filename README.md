@@ -1,1 +1,16 @@
-The Brain Tumor Detection System is an artificial intelligence and image processing based application developed to detect brain tumors from MRI scan images. Brain tumors are one of the serious health problems that require early and accurate diagnosis for proper treatment.
+# 🧠 Brain Tumor MRI Classifier
+
+A deep learning app to detect brain tumors from MRI scans.
+
+## Classes
+⚠️ Glioma | 🔶 Meningioma | ✅ No Tumor | 🔵 Pituitary
+
+## Dataset
+Download dataset from Kaggle:
+[Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
+
+## How to Run
+pip install streamlit tensorflow pillow plotly numpy
+streamlit run models/streamlit_app.py
+
+## Created by Shreya Ghule
