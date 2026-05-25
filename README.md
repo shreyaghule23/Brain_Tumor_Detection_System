@@ -1,0 +1,1 @@
+The Brain Tumor Detection System is an artificial intelligence and image processing based application developed to detect brain tumors from MRI scan images. Brain tumors are one of the serious health problems that require early and accurate diagnosis for proper treatment.
